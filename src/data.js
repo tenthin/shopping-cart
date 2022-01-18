@@ -16,7 +16,7 @@ const data = {
         id: '3',
         name:'W Shoes',
         price:1000,
-        image:'https://picsum.photos/id21/3008/2008'
+        image:'https://image.shutterstock.com/image-photo/close-red-high-heels-on-260nw-1149370748.jpg'
         },
     ]
 }
